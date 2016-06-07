@@ -1,16 +1,15 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:45:35.548570
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 5:44
 #+TITLE: 金剛般若經疏論纂要刊定記會編
 #+PROPERTY: CBETA_ID J31nB269
 #+PROPERTY: ID KR6c0099
 #+PROPERTY: SOURCE Jiaxing Canon Vol. 31, No. B269
 #+PROPERTY: VOL 31
 #+PROPERTY: BASEEDITION J
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6c0099_J_004-0695a> 
 #+PROPERTY: JUAN 4
-
- 金剛般若經疏論纂要刊定記會編卷第四¶
+金剛般若經疏論纂要刊定記會編卷第四¶
 秦三藏法師鳩摩羅什譯經¶
 唐　圭山大師宗密　述疏¶
 宋　長水沙門子璿　錄記¶
@@ -629,7 +628,7 @@
 仗往至佛所佛乃訶之具陳上事時須菩提在¶
 於山中亦欲見佛尋復思念空無相理是真法¶
 身何用見色相念已復坐竟不往見於是佛告¶
-蓮華色言須菩提先見我竟汝已在後故知執¶
+蓮華色言須菩提先見我竟汝己在後故知執¶
 相迷真對面千里虛心體物天地一家故古人¶
 云肝膽雖近情生則隔江山雖緬道契則鄰是¶
 知通達妙理方真給侍若斯給侍是侍真佛故¶
@@ -815,7 +814,7 @@
 彼論避煩不敘。】¶
 金剛般若經疏論纂要刊定記會編第四卷(終)¶
 
-校訛¶
+** 校訛¶
 
   
   * 第二紙(六行首具字北藏作俱楞嚴寺流通本同誤)

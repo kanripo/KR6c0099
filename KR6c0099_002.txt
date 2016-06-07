@@ -1,16 +1,15 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:45:35.490855
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 5:44
 #+TITLE: 金剛般若經疏論纂要刊定記會編
 #+PROPERTY: CBETA_ID J31nB269
 #+PROPERTY: ID KR6c0099
 #+PROPERTY: SOURCE Jiaxing Canon Vol. 31, No. B269
 #+PROPERTY: VOL 31
 #+PROPERTY: BASEEDITION J
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6c0099_J_002-0681c> 
 #+PROPERTY: JUAN 2
-
- 金剛般若經疏論纂要刊定記會編卷第二¶
+金剛般若經疏論纂要刊定記會編卷第二¶
 秦三藏法師鳩摩羅什譯經¶
 唐　圭山大師宗密　述疏¶
 宋　長水沙門子璿　錄記¶
@@ -719,14 +718,14 @@
 存焉。】¶
 金剛般若經疏論纂要刊定記會編第二卷(終)¶
 
-校訛¶
+** 校訛¶
 
   
   * 第一紙(十六行玄北藏作立楞嚴寺流通本同誤)
   * 第四紙(二十行現北藏作見)
   * 第¶六紙(十七行令北藏作今)
   * 第八紙(十六行僧北藏作因)
-  * 第十一紙(二行已北¶藏作以)
+  * 第十一紙(二行己北¶藏作以)
   * 第十二紙(六行曲北藏作由十三行示北藏作云)
   * 第十三紙(十四¶行輪北藏作論)
   * 第十七紙(十七行失北藏作夫)

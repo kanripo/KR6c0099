@@ -1,16 +1,15 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:45:35.579811
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 5:44
 #+TITLE: 金剛般若經疏論纂要刊定記會編
 #+PROPERTY: CBETA_ID J31nB269
 #+PROPERTY: ID KR6c0099
 #+PROPERTY: SOURCE Jiaxing Canon Vol. 31, No. B269
 #+PROPERTY: VOL 31
 #+PROPERTY: BASEEDITION J
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6c0099_J_005-0702b> 
 #+PROPERTY: JUAN 5
-
- 金剛般若經疏論纂要刊定記會編卷第五¶
+金剛般若經疏論纂要刊定記會編卷第五¶
 秦三藏法師鳩摩羅什譯經¶
 唐　圭山大師宗密　述疏¶
 宋　長水沙門子璿　錄記¶
@@ -813,10 +812,10 @@
 次下經文也。】¶
 金剛般若經疏論纂要刊定記會編第五卷(終)¶
 
-校訛¶
+** 校訛¶
 
   
-  * 第五紙(十七行唯北藏作佳楞嚴寺流通本同誤)
+  * 第五紙(十七行唯北藏作隹楞嚴寺流通本同誤)
   * 第十四紙(十二行也北藏作九)¶
   * 第十五紙(一行冀北藏作翼)
   * 第十七紙(四行問北藏作聞)
